@@ -9,7 +9,13 @@ import InstagramImg from './InstagramImg';
 
 const Instagram = () => {
   return (
-    <div>Instagram</div>
+    <div>
+        <p>Follow me on Ig</p>
+        <p>@Carljeromee</p>
+        <div>
+            <InstagramImg />
+        </div>
+    </div>
   )
 }
 
